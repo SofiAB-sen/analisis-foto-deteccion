@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_filtrado_ZT</folder>
+	<filename>7_VLS-S0173_0123_01122010_0123_27082013_2_20240909_130439_326843_060_066_009_002_0480_TSZ362_ZT_03588_01091__2_117287_57462_1_00_10_00.jpg</filename>
+	<path>C:/Users/Usuario/OneDrive/Documents/analisis-foto-deteccion/dataset_filtrado_ZT/7_VLS-S0173_0123_01122010_0123_27082013_2_20240909_130439_326843_060_066_009_002_0480_TSZ362_ZT_03588_01091__2_117287_57462_1_00_10_00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>752</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle registration plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>399</xmin>
+			<ymin>226</ymin>
+			<xmax>480</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>
